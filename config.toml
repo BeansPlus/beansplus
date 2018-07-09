@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "Beans.Plus"
+baseurl = "https://beans.plus/"
+theme = "aerial"
+
+[params]
+  name = "Beans.Plus"
+  about = "【活动交友】Beans.Plus用心拥抱来自世界各地的朋友；用热情和创意开辟一方纯净、有趣且靠谱的活动交友集结地。Beans.Plus embraces people from all around the world, dedicating its creativity and enthusiasm in creating a pure, fun and reliable place for events holding and people meeting"
+  copyright = "beans.plus"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:info@beans.plus"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://facebook.com/beansplusevents"
